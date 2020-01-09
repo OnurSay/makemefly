@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8AF1106B-0E64-D069-AFD3-E9AF17E302EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Onur/Scripts/DestroyHuman.cs">
+    <Files>
+      <File FileName="Assets/Onur/Scripts/Rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Onur/Scripts/MoveForward.cs" />
+      <File FileName="Assets/Doruk/Scripts/TouchControl.cs" />
+      <File FileName="Assets/Onur/Scripts/GameManager.cs" />
+      <File FileName="Assets/Onur/Scripts/Collect.cs" />
+      <File FileName="Assets/Onur/Scripts/FinishScript.cs" />
+      <File FileName="Assets/Onur/Scripts/LevelManager.cs" />
+      <File FileName="Assets/Onur/Scripts/BubbleRotate.cs" />
+      <File FileName="Assets/LaserMachine/Core/Scripts/LaserMachine.cs" />
+      <File FileName="Assets/Onur/Scripts/ColliderDeactivator.cs" />
+      <File FileName="Assets/Onur/Scripts/Border.cs" />
+      <File FileName="Assets/Onur/Scripts/Follow.cs" />
+      <File FileName="Assets/Doruk/Scripts/Char_Fly_Script.cs" />
+      <File FileName="Assets/Onur/Scripts/TapToFly.cs" />
+      <File FileName="Assets/Onur/Scripts/DestroyHuman.cs" Line="71" Column="82" />
+      <File FileName="Assets/Onur/Scripts/CoinRotate.cs" />
+      <File FileName="Assets/Onur/Scripts/Boost.cs" />
+      <File FileName="Assets/Onur/Scripts/Saw_transform.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b1e4315a-ba3c-421d-9b69-d4a96957cf0c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
